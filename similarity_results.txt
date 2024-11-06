@@ -1,0 +1,53 @@
+Top 10 Similar Text Book Pairs
+============================
+
+1. Similarity Score: 77.00%
+   Book 1: ./textbooks/Gerard's Herbal Vol. 3.txt
+   Book 2: ./textbooks/Mrs Beetons Book of Household Management.txt
+   ----------------------------------------
+
+2. Similarity Score: 69.00%
+   Book 1: ./textbooks/Gerards Herbal Vol. 2.txt
+   Book 2: ./textbooks/The Covent Garden Calendar.txt
+   ----------------------------------------
+
+3. Similarity Score: 68.00%
+   Book 1: ./textbooks/The Diary of a Lover of Literature.txt
+   Book 2: ./textbooks/The Covent Garden Calendar.txt
+   ----------------------------------------
+
+4. Similarity Score: 66.00%
+   Book 1: ./textbooks/The Metamorphosis of Ajax.txt
+   Book 2: ./textbooks/The Complete Cony-catching.txt
+   ----------------------------------------
+
+5. Similarity Score: 66.00%
+   Book 1: ./textbooks/Love and Madness - Herbert Croft.txt
+   Book 2: ./textbooks/The Diary of a Lover of Literature.txt
+   ----------------------------------------
+
+6. Similarity Score: 64.00%
+   Book 1: ./textbooks/Love and Madness - Herbert Croft.txt
+   Book 2: ./textbooks/The Covent Garden Calendar.txt
+   ----------------------------------------
+
+7. Similarity Score: 64.00%
+   Book 1: ./textbooks/Gerards Herbal Vol. 1.txt
+   Book 2: ./textbooks/The Covent Garden Calendar.txt
+   ----------------------------------------
+
+8. Similarity Score: 64.00%
+   Book 1: ./textbooks/The Protestant Reformation.txt
+   Book 2: ./textbooks/The Diary of a Lover of Literature.txt
+   ----------------------------------------
+
+9. Similarity Score: 63.00%
+   Book 1: ./textbooks/Gerards Herbal Vol. 1.txt
+   Book 2: ./textbooks/The Protestant Reformation.txt
+   ----------------------------------------
+
+10. Similarity Score: 63.00%
+   Book 1: ./textbooks/Gerards Herbal Vol. 1.txt
+   Book 2: ./textbooks/The Diary of a Lover of Literature.txt
+   ----------------------------------------
+
